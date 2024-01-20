@@ -1,0 +1,71 @@
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #0b0505;
+    background-image: url('abstract_blue_technical_background_311222.webp');
+    background-size: cover;
+
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: #f4c972;
+}
+
+header {
+    background-color: #94b860;
+    color: #050101;
+    padding: 1rem 0;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+header h1 {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+
+}
+
+header p {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #f4c972;
+}
+
+section {
+    padding: 2rem 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #b3e3e3;
+}
+
+li {
+    margin-bottom: 0.5rem;
+    box-sizing: border-box;
+    background-color: #95c1c1;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    background-color: #93c6d3;
+}
+
+a {
+    text-decoration:#ddd none;
+    color: #0033ff;
+}
